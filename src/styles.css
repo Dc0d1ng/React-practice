@@ -27,7 +27,6 @@ body {
   color: hsl(200, 100%, 50%);
   border-radius: 0.25em;
   cursor: pointer;
-  outline: none;
 }
 
 .btn:hover,
